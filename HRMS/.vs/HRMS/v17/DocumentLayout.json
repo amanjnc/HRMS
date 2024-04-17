@@ -1,12 +1,257 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|c:\\users\\yeabb\\music\\actual hrms\\hrms\\hrms\\hrms.server\\model\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|solutionrelative:hrms.server\\model\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|c:\\users\\yeabb\\music\\actual hrms\\hrms\\hrms\\hrms.server\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|solutionrelative:hrms.server\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|c:\\users\\yeabb\\music\\actual hrms\\hrms\\hrms\\hrms.server\\model\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|solutionrelative:hrms.server\\model\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|c:\\users\\yeabb\\music\\actual hrms\\hrms\\hrms\\hrms.server\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|solutionrelative:hrms.server\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|c:\\users\\yeabb\\music\\actual hrms\\hrms\\hrms\\hrms.server\\model\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|solutionrelative:hrms.server\\model\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|c:\\users\\yeabb\\music\\actual hrms\\hrms\\hrms\\hrms.server\\model\\reccruitment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|solutionrelative:hrms.server\\model\\reccruitment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|c:\\users\\yeabb\\music\\actual hrms\\hrms\\hrms\\hrms.server\\model\\employeecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|solutionrelative:hrms.server\\model\\employeecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|c:\\users\\yeabb\\music\\actual hrms\\hrms\\hrms\\hrms.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|solutionrelative:hrms.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|c:\\users\\yeabb\\music\\actual hrms\\hrms\\hrms\\hrms.server\\hrms.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|solutionrelative:hrms.server\\hrms.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|c:\\users\\yeabb\\music\\actual hrms\\hrms\\hrms\\hrms.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|solutionrelative:hrms.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|c:\\users\\yeabb\\music\\actual hrms\\hrms\\hrms\\hrms.server\\model\\leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|solutionrelative:hrms.server\\model\\leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|c:\\users\\yeabb\\music\\actual hrms\\hrms\\hrms\\hrms.server\\model\\vacation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|solutionrelative:hrms.server\\model\\vacation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|c:\\users\\yeabb\\music\\actual hrms\\hrms\\hrms\\hrms.server\\model\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|solutionrelative:hrms.server\\model\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|c:\\users\\yeabb\\music\\actual hrms\\hrms\\hrms\\hrms.server\\hrms.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA318D5F-48DB-4017-AA1A-35053108B17A}|HRMS.Server\\HRMS.Server.csproj|solutionrelative:hrms.server\\hrms.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Payroll.cs",
+              "DocumentMoniker": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Model\\Payroll.cs",
+              "RelativeDocumentMoniker": "HRMS.Server\\Model\\Payroll.cs",
+              "ToolTip": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Model\\Payroll.cs",
+              "RelativeToolTip": "HRMS.Server\\Model\\Payroll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T01:11:43.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "HRMS.Server\\Model\\Department.cs",
+              "ToolTip": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Model\\Department.cs",
+              "RelativeToolTip": "HRMS.Server\\Model\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T01:06:37.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Model\\Attendance.cs",
+              "RelativeDocumentMoniker": "HRMS.Server\\Model\\Attendance.cs",
+              "ToolTip": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Model\\Attendance.cs",
+              "RelativeToolTip": "HRMS.Server\\Model\\Attendance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T01:06:24.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "HRMS.Server\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Model\\Employee.cs",
+              "RelativeToolTip": "HRMS.Server\\Model\\Employee.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvyIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T01:04:33.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Model\\Project.cs",
+              "RelativeDocumentMoniker": "HRMS.Server\\Model\\Project.cs",
+              "ToolTip": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Model\\Project.cs",
+              "RelativeToolTip": "HRMS.Server\\Model\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T01:13:36.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reccruitment.cs",
+              "DocumentMoniker": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Model\\Reccruitment.cs",
+              "RelativeDocumentMoniker": "HRMS.Server\\Model\\Reccruitment.cs",
+              "ToolTip": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Model\\Reccruitment.cs",
+              "RelativeToolTip": "HRMS.Server\\Model\\Reccruitment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T01:12:06.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeContact.cs",
+              "DocumentMoniker": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Model\\EmployeeContact.cs",
+              "RelativeDocumentMoniker": "HRMS.Server\\Model\\EmployeeContact.cs",
+              "ToolTip": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Model\\EmployeeContact.cs",
+              "RelativeToolTip": "HRMS.Server\\Model\\EmployeeContact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T01:12:33.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HRMS.Server",
+              "DocumentMoniker": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\HRMS.Server.csproj",
+              "RelativeDocumentMoniker": "HRMS.Server\\HRMS.Server.csproj",
+              "ToolTip": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\HRMS.Server.csproj",
+              "RelativeToolTip": "HRMS.Server\\HRMS.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T02:37:13.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Program.cs",
+              "RelativeDocumentMoniker": "HRMS.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Program.cs",
+              "RelativeToolTip": "HRMS.Server\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T02:31:53.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "HRMS.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\appsettings.json",
+              "RelativeToolTip": "HRMS.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T02:31:42.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Leave.cs",
+              "DocumentMoniker": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Model\\Leave.cs",
+              "RelativeDocumentMoniker": "HRMS.Server\\Model\\Leave.cs",
+              "ToolTip": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Model\\Leave.cs",
+              "RelativeToolTip": "HRMS.Server\\Model\\Leave.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T01:11:32.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Vacation.cs",
+              "DocumentMoniker": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Model\\Vacation.cs",
+              "RelativeDocumentMoniker": "HRMS.Server\\Model\\Vacation.cs",
+              "ToolTip": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Model\\Vacation.cs",
+              "RelativeToolTip": "HRMS.Server\\Model\\Vacation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T01:07:08.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Training.cs",
+              "DocumentMoniker": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Model\\Training.cs",
+              "RelativeDocumentMoniker": "HRMS.Server\\Model\\Training.cs",
+              "ToolTip": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\Model\\Training.cs",
+              "RelativeToolTip": "HRMS.Server\\Model\\Training.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T01:06:49.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HRMS.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\HRMS.Server.csproj",
+              "RelativeDocumentMoniker": "HRMS.Server\\HRMS.Server.csproj",
+              "ToolTip": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\HRMS.Server.csproj",
+              "RelativeToolTip": "HRMS.Server\\HRMS.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T00:58:03.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
