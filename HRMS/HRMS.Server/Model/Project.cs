@@ -2,7 +2,7 @@
 {
     public class Project
     {
-        public int ProjetId { get; set; }
+        public int ProjectId {  get; set; }
         public string ProjectName { get; set; }
         public string ProjectDescription { get; set; }
         public DateOnly ProjectStartDate { get; set; }

@@ -11,11 +11,12 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("34ffce5c-7395-4b16-b05f-4e2a0343e418")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("HRMS.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbc88d8c23e532838573197180f3e76a968ddb57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45794c9e584c81660c7f68dfcdfe2170fdbe7ca4")]
 [assembly: System.Reflection.AssemblyProductAttribute("HRMS.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HRMS.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

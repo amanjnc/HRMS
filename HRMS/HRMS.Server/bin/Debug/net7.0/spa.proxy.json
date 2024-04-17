@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\yeabb\\Music\\Actual HRMS\\HRMS\\HRMS\\HRMS.Server\\..\\hrms.client",
+"MaxTimeoutInSeconds": "120"
+}
+}

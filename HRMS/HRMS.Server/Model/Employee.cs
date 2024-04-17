@@ -15,25 +15,17 @@ namespace HRMS.Server.Model
         public int EmployeePhone { get; set; }
         public String EmployeeEmail { get; set; }
 
-
-
-
-
-
-
-
-
         public int DepartmentId { get; set; }
         [ForeignKey("DepartmentID")]
-        publicDepartment Department { get; set; }
+        public Department department { get; set; }
 
 
         public int ProjectId;
         [ForeignKey("ProjectId")]
-        public Project Project { get; set; }
+        public Project project { get; set; }
 
 
-        public int PayrollId();
+        public int PayrollId { get; set; }
         [ForeignKey("PayrollId")]
 
         public Payroll payroll { get; set; }
